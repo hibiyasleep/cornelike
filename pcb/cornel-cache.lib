@@ -211,11 +211,11 @@ X B 2 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# cornel-rescue_SK6812MINI-E-local
+# cornel-rescue_SK6812MINI-E-local-cornel-rescue
 #
-DEF cornel-rescue_SK6812MINI-E-local D 0 10 Y Y 1 F N
+DEF cornel-rescue_SK6812MINI-E-local-cornel-rescue D 0 10 Y Y 1 F N
 F0 "D" 200 225 50 H V R BNN
-F1 "cornel-rescue_SK6812MINI-E-local" 50 -225 50 H V L TNN
+F1 "cornel-rescue_SK6812MINI-E-local-cornel-rescue" 50 -225 50 H V L TNN
 F2 "hibiya-playground:SK6812MINI-E_InsidePCB_singleside" 50 -300 50 H I L TNN
 F3 "" 100 -375 50 H I L TNN
 $FPLIST
