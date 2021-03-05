@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name korone-chocolate-rescue)(type Legacy)(uri ${KIPRJMOD}/korone-chocolate-rescue.lib)(options "")(descr ""))
+)
