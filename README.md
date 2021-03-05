@@ -1,6 +1,6 @@
 # Cornel
 
-yet another (Crkbd)[https://github.com/foostan/crkbd] clone, but number row attached.
+yet another [Crkbd](https://github.com/foostan/crkbd) clone, but with 5 rows.
 
 ---
 
@@ -32,9 +32,11 @@ you are safe.
  Corne**l** is basically a clone of Corne keyboard, but with
 
 * **Kailh Choc Switches** but keeping cherry pitch (19mm) for V2 keycaps.
-* **Number Row** - to provide easy transition to 40% layout.
+* **Number Row**: to provide easy transition to 40% layout.
   can be removed later if no longer required. (irreversible)
-* **Low Profile** - Cornel might do any attempt to reduce thickness of keyboard.
+* **Bluetooth MCU Support**: Cornel provides battery board (discharge only)
+  that fits onto MCU cover, might be able to power [BLE Micro Pro](https://github.com/sekigon-gonnoc/BLE-Micro-Pro/), etc.
+* **Low Profile**: Cornel might do any attempt to reduce thickness of keyboard.
   (TBD)
 
 ## Progress
@@ -50,8 +52,10 @@ you are safe.
   * [ ] QMK support
 * [ ] Compability
   * [ ] Classic Pro Micro
-  * [ ] BLE Pro Micro
-  * [ ] nice!nano
+  * [ ] [BLE Pro Micro](https://github.com/sekigon-gonnoc/BLE-Micro-Pro)
+    * [ ] [LPME-IO](https://github.com/sekigon-gonnoc/LPME-IO)...?
+  * [ ] [nice!nano](https://docs.nicekeyboards.com/)
+  * [ ] TBA
 * [ ] Problems
   * [ ] Detachability of Number row
   * [ ] removing LED Signal Skip jumper (by reordering LEDs)
