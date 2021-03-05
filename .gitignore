@@ -1,8 +1,10 @@
 .DS_Store
 
+.kicad-common
+
 *-rescue.dcm
 *-rescue.lib
 *-bak
 *.gbr
-*.drl
 *.gbrjob
+*.drl
